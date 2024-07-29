@@ -1,5 +1,5 @@
 # Ignore Python virtual enviroment
-venv/
+proj_venv/
 
 # Ignore pipenv virtual enviroment
 Pipfile
