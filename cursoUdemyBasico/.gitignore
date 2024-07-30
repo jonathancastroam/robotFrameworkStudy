@@ -1,0 +1,14 @@
+# Ignore Python virtual enviroment
+proj_venv/
+
+# Ignore pipenv virtual enviroment
+Pipfile
+Pipfile.lock
+
+# Ignore poetry virtual enviroment
+poetry.lock
+pyproject.toml
+
+# Ignore VS Code settings
+.vscode/
+
